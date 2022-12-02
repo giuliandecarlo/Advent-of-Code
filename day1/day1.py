@@ -1,7 +1,7 @@
 
 #---------[PART 1]---------
 
-f=open('file.txt')
+f=open('day1.txt')
 list_elf=[]
 sumCal=0
 
