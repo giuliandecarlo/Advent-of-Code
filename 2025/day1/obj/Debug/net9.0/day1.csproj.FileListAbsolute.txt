@@ -1,0 +1,15 @@
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/bin/Debug/net9.0/day1
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/bin/Debug/net9.0/day1.deps.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/bin/Debug/net9.0/day1.runtimeconfig.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/bin/Debug/net9.0/day1.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/bin/Debug/net9.0/day1.pdb
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.AssemblyInfoInputs.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.AssemblyInfo.cs
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.csproj.CoreCompileInputs.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.sourcelink.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/refint/day1.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.pdb
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/day1.genruntimeconfig.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day1/obj/Debug/net9.0/ref/day1.dll
