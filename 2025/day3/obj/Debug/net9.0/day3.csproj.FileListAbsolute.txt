@@ -1,0 +1,15 @@
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.AssemblyInfoInputs.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.AssemblyInfo.cs
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.csproj.CoreCompileInputs.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.sourcelink.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/bin/Debug/net9.0/day3
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/bin/Debug/net9.0/day3.deps.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/bin/Debug/net9.0/day3.runtimeconfig.json
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/bin/Debug/net9.0/day3.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/bin/Debug/net9.0/day3.pdb
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/refint/day3.dll
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.pdb
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/day3.genruntimeconfig.cache
+/Users/giuliandecarlo/Documents/Coding/Python/AoC/Advent-of-Code/2025/day3/obj/Debug/net9.0/ref/day3.dll
