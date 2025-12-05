@@ -51,6 +51,42 @@ class Program
 
     static void P2()
     {
-        Console.WriteLine("Part 2: ");
+        var lines = File.ReadAllLines("day5.txt");
+        List<(long start, long end)> ranges = new();
+        long totalFresh = 0;
+
+        foreach (var line in lines)
+        {
+            if (line.Contains('-'))
+            {
+                var parts = line.Split('-');
+                ranges.Add((long.Parse(parts[0]), long.Parse(parts[1])));
+            }
+        }
+
+        ranges.Sort((a, b) => a.start.CompareTo(b.start));
+
+        long currentStart = ranges[0].start;
+        long currentEnd = ranges[0].end;
+
+        for (int i = 1; i < ranges.Count; i++)
+        {
+            var (start, end) = ranges[i];
+
+            if (start <= currentEnd + 1)
+            {
+                currentEnd = Math.Max(currentEnd, end);
+            }
+            else
+            {
+                totalFresh += currentEnd - currentStart + 1;
+
+                currentStart = start;
+                currentEnd = end;
+            }
+        }
+        totalFresh += currentEnd - currentStart + 1;
+
+        Console.WriteLine("Part 2: " + totalFresh);
     }
 }
